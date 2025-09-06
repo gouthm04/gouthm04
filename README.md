@@ -4,7 +4,6 @@
 ♟️ Chess enthusiast — find me on [Chess.com as StrategicOops](https://www.chess.com/member/StrategicOops)  
 🧪 I enjoy experimenting with code, AI bots, and startup-style ideas (sometimes they work, sometimes they don’t 😅)  
 
-⚡ “I can code, I can solve problems, I can build things.”  
 
 ---
 
