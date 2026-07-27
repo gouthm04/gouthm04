@@ -5,5 +5,5 @@ I am a full-stack web developer with expertise in React.js, Node.js, Express.js,
 
 ## 📬 Connect
 - GitHub: [gouthm04](https://github.com/gouthm04)  
-- LinkedIn: []  
+- LinkedIn: https://www.linkedin.com/in/goutham04/
 - Email: gouthm.04@gmail.com  
